@@ -1,0 +1,11 @@
+html, body {
+    background-color: #21232A;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+}
+
+button {
+    font-size: 1.3rem;
+    padding: 10px;
+}
