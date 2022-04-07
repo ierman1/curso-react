@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+    padding: 3rem;
+}
+
+input {
+    color: grey;
+    font-size: 1.2rem;
+    padding: .7rem;
+    width: 100%;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    text-align: center;
+}
+
+.card img {
+    flex-grow: 1;
+    max-height: 200px;
+}
